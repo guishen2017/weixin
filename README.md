@@ -9,4 +9,4 @@ search_keys = "python6359"  #公众号ID<br>
 
 2.运行weixin_cookies.py 获取cookie<br>
 <br>
-3.运行weixin_article.py 获取文章
+3.运行weixin_article.py 开始爬取文章
